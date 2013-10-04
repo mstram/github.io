@@ -1,0 +1,1 @@
+git push git@github.com:mstram/github.io.git

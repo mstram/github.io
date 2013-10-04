@@ -1,0 +1,1 @@
+git clone git@github.com:mstram/github.io.git
